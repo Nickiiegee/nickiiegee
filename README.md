@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack developer currently working as a software engineer. My current project entails orchestrating an entire workflow on AWS that requires human intervention if any OCR models fail to extract key/value pairs. I'm in the industry for 4+ years
+As a self-taught Full Stack Developer landing my first career in IT at Autumn Leaf IT, I am results-driven with expertise in both front-end and back-end technologies. Proficient in building and optimizing web applications using modern frameworks such as React, TypeScript and Nextjs. Experienced with both MySQL and NoSQL databases as well as implementing RESTful API's and integrating third-party services. Strong problem-solving skills, attention to detail, and a passion for creating seamless, user-centric solutions. Able to work in fast-paced environments and collaborate effectively with cross-functional teams to deliver high-quality software.
 
 
 ## 🌐 Socials:
